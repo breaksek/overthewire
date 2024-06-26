@@ -1,0 +1,64 @@
+{"natas" :
+    [{
+
+        "level 0" : "host : http://natas0.natas.labs.overthewire.org",
+        "username" : "natas0",
+        "flag" : "natas0",
+        "note" : "source code page"
+    },{
+        "level 1" : "host : http://natas1.natas.labs.overthewire.org",
+        "username" : "natas1",
+        "flag" : "0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq",
+        "note" : "source code page"
+    },{
+        "level 2" : "host : http://natas2.natas.labs.overthewire.org",
+        "username" : "natas2",
+        "flag" : "TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI",
+        "note" : "./files/users.txt"
+    },{
+        "level 3" : "host : http://natas3.natas.labs.overthewire.org",
+        "username" : "natas3",
+        "flag" : "3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH",
+        "note" : "hidden folder /s3cr3t/"
+    },{
+        "level 4" : "host : http://natas4.natas.labs.overthewire.org",
+        "username" : "natas4",
+        "flag" : "QryZXc2e0zahULdHrtHxzyYkj59kUxLQ",
+        "note" : "Menggunakan proxy via burpsuite"
+    },{
+        "level 5" : "host : http://natas5.natas.labs.overthewire.org",
+        "username" : "natas5",
+        "flag" : "0n35PkggAPm2zbEpOU802c0x0Msn1ToK",
+        "note" : "Menggunakan proxy via burpsuite"
+    },{
+        "level 6" : "host : http://natas6.natas.labs.overthewire.org",
+        "username" : "natas6",
+        "flag" : "0RoJwHdSKWFTYR5WuiAewauSuNaBXned",
+        "note" : "./includes/secret.inc"
+    },{
+        "level 7" : "host : http://natas7.natas.labs.overthewire.org",
+        "username" : "natas7",
+        "flag" : "xcoXLmzMkoIP9D7hlgPlh9XD7OgLAe5Q",
+        "note" : "{host}/index.php?page=/etc/natas_webpass/natas8"
+    },{
+        "level 8" : "host : http://natas8.natas.labs.overthewire.org",
+        "username" : "natas8",
+        "flag" : "ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t",
+        "note" : "Mencari kunci untuk mengakses password menggunakan script natas.py"
+    },{
+        "level 9" : "host : http://natas9.natas.labs.overthewire.org",
+        "username" : "natas9",
+        "flag" : "t7I5VHvpa14sJTUGV0cbEsbYfFP2dmOu",
+        "note" : "Menggunakan eksploit ';%20cat%20/etc/natas_webpass/natas10%20#' untuk mengakses file yang menimpan password"
+    },{
+        "level 10" : "host : http://natas10.natas.labs.overthewire.org",
+        "username" : "natas10",
+        "flag" : "UJdqkK1pTu6VLt9UHWAgRZz6sVUZ3lEk",
+        "note" : "Mengganti kode ';' menjadi '%0A' pada eksploit" 
+    },{
+        "level 11" : "host : http://natas11.natas.labs.overthewire.org",
+        "username" : "natas11",
+        "flag" : "",
+        "note" : ""
+    }]
+}
