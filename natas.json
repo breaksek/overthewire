@@ -1,6 +1,5 @@
 {"natas" :
     [{
-
         "level 0" : "host : http://natas0.natas.labs.overthewire.org",
         "username" : "natas0",
         "flag" : "natas0",
@@ -39,7 +38,7 @@
         "level 7" : "host : http://natas7.natas.labs.overthewire.org",
         "username" : "natas7",
         "flag" : "xcoXLmzMkoIP9D7hlgPlh9XD7OgLAe5Q",
-        "note" : "{host}/index.php?page=/etc/natas_webpass/natas8"
+        "note" : "inject parameter page="
     },{
         "level 8" : "host : http://natas8.natas.labs.overthewire.org",
         "username" : "natas8",
