@@ -57,8 +57,8 @@
     },{
         "level 11" : "host : http://natas11.natas.labs.overthewire.org",
         "username" : "natas11",
-        "flag" : "LmgXGQQ8QREnBkE5PhAbb2ouJBRwdlhUFDU6NlweZ1F3aQIXDS1XFnYI",
-        "note" : "Mencari kunci untuk mengakses password menggunakan script di breaksek.com/natas.php"
+        "flag" : "",
+        "note" : ""
     },{
         "level 12" : "host : http://natas12.natas.labs.overthewire.org",
         "username" : "natas12",
